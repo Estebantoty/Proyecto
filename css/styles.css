@@ -85,7 +85,7 @@ input#menu-hamburguesa:checked ~ ul{
     padding: 6rem 2rem 3rem 2rem;
 }
 
-.header-presentacion{
+.header{
     position: absolute;
     min-width: 100%;
     left: 0;
@@ -94,16 +94,16 @@ input#menu-hamburguesa:checked ~ ul{
     background-color: var(--principal-color);
 }
 
-.header-presentacion>h1{
+.header>h1{
     font-size: 2.5rem;
     font-weight: bold;
 }
 
-.header-presentacion>h1>span{
+.header>h1>span{
     color: var(--accent-color);
 }
 
-.header-presentacion>p{
+.header>p{
     font-size: 20px;
 }
 
@@ -248,14 +248,14 @@ h2{
 }
 
 .estudios-carta{
-    padding: 2rem 2.5rem;
+    padding: 1rem 1.5rem;
     border-radius: 1rem;
     background-color: var(--light-color);
     text-align: center;
 }
 .estudios-carta>img{
-    width: 75px;
-    height: 75px;
+    width: 85px;
+    height: 85px;
     object-fit: contain;
     margin-bottom: .5rem;
 }
