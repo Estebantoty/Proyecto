@@ -2,7 +2,7 @@
 
 /*font-family: 'Poppins', sans-serif;*/
 :root{
-    --principal-color: #197f5b;
+    --principal-color: #2e61a5;
     --accent-color: #ef9919;
     --light-color: #f9f5f2;
     --gray: rgb(59, 59, 59);
@@ -161,7 +161,7 @@ input#menu-hamburguesa:checked ~ ul{
 .trapecio{
     border-right: 60px solid transparent;
     border-left: 60px solid transparent;
-    border-top: 100px solid #197f5b;
+    border-top: 100px solid  #2e61a5;
     position: absolute;
     width: 100%; 
 }
